@@ -26,11 +26,11 @@ mkdir experiments
     - An example file `huffpost_test.txt` is located in the [SEC/data folder](https://github.com/IKMLab/SEC/tree/main/data).
 
 #### Choose the pre-trained T5 model
-- English: t5-large
-- Japanese:
-    1. megagonlabs/t5-base-japanese-web
-    2. sonoisa/t5-base-japanese
-    3. google/mt5-large (multilingual T5)
+- English: [t5-large](https://huggingface.co/t5-large)
+- Japanese (currently not stable):
+    1. [megagonlabs/t5-base-japanese-web](https://huggingface.co/megagonlabs/t5-base-japanese-web)
+    2. [sonoisa/t5-base-japanese](https://huggingface.co/sonoisa/t5-base-japanese)
+    3. [google/mt5-large (multilingual T5)](https://huggingface.co/google/mt5-large)
 
 ### Run the code
 - Set `gen_model_name` with the desired pre-trained T5 model name
