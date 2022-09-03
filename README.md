@@ -1,5 +1,5 @@
 # SEC
-This is the implementation of the paper Few-shot Text Classification with Saliency-equivalent Concatenation (SEC).
+This is the implementation of the IEEE AIKE'2022 paper *Few-shot Text Classification with Saliency-equivalent Concatenation* (SEC).
 
 ## Introduction to SEC
 SEC is an unsupervised data augmentation approach for creating additional key information for a given sentence.
