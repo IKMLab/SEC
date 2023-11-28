@@ -96,3 +96,17 @@ Example input filename: data/huffpost_test.txt
 - filter_mode: mode for NLI (natural language inference) during sentence filtering
 - output_length: the maximum length of T5-output sequences
 - output_tokens: If specified, tokens will be saved in the output file (.json ).
+
+## Cite our paper
+Please cite our paper if you use our code. Thank you!
+```
+@INPROCEEDINGS{9939269,
+  author={Lin, Ying-Jia and Chang, Yu-Fang and Kao, Hung-Yu and Wang, Hsin-Yang and Liu, Mu},
+  booktitle={2022 IEEE Fifth International Conference on Artificial Intelligence and Knowledge Engineering (AIKE)}, 
+  title={Few-shot Text Classification with Saliency-equivalent Concatenation}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={74-81},
+  doi={10.1109/AIKE55402.2022.00019}}
+```
